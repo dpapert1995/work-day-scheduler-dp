@@ -14,7 +14,7 @@ Uses moment.js to track time and adjust color scheme according to the time of da
 ![](/assets/images/screenshot1.PNG)
 
 ## Website
-https://dpapert1995.github.io/work-day-scheduler/
+https://dpapert1995.github.io/work-day-scheduler-dp/
 
 ## Contribution
 Authors: Daniel Papert
